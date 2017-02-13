@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Autostarter</id>
+    <version>1.0.0</version>
+    <authors>Daniel Sunnerberg</authors>
+    <owners>Daniel Sunnerberg</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows an executable to be automatically started upon Windows boot.</description>
+    <releaseNotes>Project basis.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>autostart windows boot</tags>
+  </metadata>
+</package>
